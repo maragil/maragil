@@ -4,9 +4,9 @@
 
 ### ALGUNAS COSAS SOBRE MÍ: 
 
-Me encanta aprender cosas nuevas y me motiva afrontar retos nuevos, tanto a nivel personal como profesional, es por esto que ahora quiero empezar en el universo de la programación y conocer todo lo que me puede ofrecer.  
-Mis años en el mundo comercial me proporcionan experiencia en dinámicas de grupos y trabajo en equipo.
-
+  Me encanta aprender cosas nuevas y me motiva afrontar retos nuevos, tanto a nivel personal como profesional, es por esto que ahora estoy empezando en el universo de la programación con pasión por seguir en este camino.  
+  Estudiar una carrera universitaria orientada al deporte me ha aportado multitud de experiencias en relación a la dinámica de equipos y al trabajo colaborativo, que he podido aplicar durante mis años en el mundo del retail .
+  
 ### MIS COMPETENCIAS TÉCNICAS:
 #### FRONT-END: 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
