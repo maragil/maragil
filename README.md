@@ -4,8 +4,8 @@
 
 ### 🟢 ALGUNAS COSAS SOBRE MÍ:
 
-Me encanta aprender cosas nuevas y me motiva afrontar retos nuevos, tanto a nivel personal como profesional, es por esto que ahora estoy empezando en el universo de la programación con pasión por seguir en este camino.
-Estudiar una carrera universitaria orientada al deporte me ha aportado multitud de experiencias en relación a la dinámica de equipos y al trabajo colaborativo, que he podido aplicar durante mis años en el mundo del retail .
+Me encanta aprender cosas nuevas y me motiva sobremanera superar desafíos, ya sea en mi vida personal o en mi desarrollo profesional. Este es el motor que me conduce a sumergirme de lleno en el amplio universo de la programación con pasión por seguir en este camino.
+Estudiar una carrera universitaria centrada en en ámbito deportivo, me ha aportado multitud de experiencias en relación a la dinámica de trabajo en equipo y a la colaboración efectiva, que he podido aplicar con éxito durante mis años en el mundo del retail .
 
 ### 🟣 PORFOLIO:
 
@@ -33,6 +33,6 @@ Estudiar una carrera universitaria orientada al deporte me ha aportado multitud 
 
 ### 🔴 HABILIDADES:
 
-- Filosofía Agile y marco de trabajo Scrum.
-- Trabajo en equipo y comunicación efectiva.
-- Trabajo en remoto.
+- Amplia experiencia en Filosofía Agile y dominio del marco de trabajo Scrum.
+- Colaboración efectiva y destrezas sobresalientes en el trabajo en equipo.
+- Destrezas destacadas en la gestión eficiente del trabajo en remoto.
