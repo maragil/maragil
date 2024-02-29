@@ -32,6 +32,10 @@ Hace algún tiempo decidí darle un vuelco a mi vida y aposté por el sector tec
 
 ### 🔴 HABILIDADES:
 
-- Amplia experiencia en Filosofía Agile y dominio del marco de trabajo Scrum.
-- Colaboración efectiva y destrezas sobresalientes en el trabajo en equipo.
-- Destrezas destacadas en la gestión eficiente del trabajo en remoto.
+- Trabajo en remoto.
+- Comunicación asertiva.
+- Destreza en la resolución de conflictos.
+- Resolutiva.
+- Comprometida.
+- Sociable.
+- Capacidad de adaptación y adaptibilidad.
