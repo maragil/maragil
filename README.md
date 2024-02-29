@@ -4,8 +4,7 @@
 
 ### 🟢 ALGUNAS COSAS SOBRE MÍ:
 
-Me encanta aprender cosas nuevas y me motiva sobremanera superar desafíos, ya sea en mi vida personal o en mi desarrollo profesional. Este es el motor que me conduce a sumergirme de lleno en el amplio universo de la programación con pasión por seguir en este camino.
-Estudiar una carrera universitaria centrada en en ámbito deportivo, me ha aportado multitud de experiencias en relación a la dinámica de trabajo en equipo y a la colaboración efectiva, que he podido aplicar con éxito durante mis años en el mundo del retail .
+Hace algún tiempo decidí darle un vuelco a mi vida y aposté por el sector tecnológico, ya que siempre he sentido curiosidad por el desarrollo de aplicaciones y las experiencias que tiene el usuario con ellas. Me entusiasma superar desafíos, ya sea en mi vida personal o en mi desarrollo profesional.
 
 ### 🟣 PORFOLIO:
 
