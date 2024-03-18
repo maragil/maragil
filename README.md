@@ -33,7 +33,7 @@ Hace algún tiempo decidí darle un vuelco a mi vida y aposté por el sector tec
 
 ### 🔴 HABILIDADES:
 
-- Trabajo en remoto.
+- Trabajo en equipo.
 - Comunicación asertiva.
 - Destreza en la resolución de conflictos.
 - Resolutiva.
